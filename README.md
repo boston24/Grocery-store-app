@@ -1,4 +1,4 @@
-# Grocery-store-app
+# Grocery store app
 Simple app made for OOP classes. Allows user to add and remove items to cart while also displaying its contents and price.
 
 ## Presentation
