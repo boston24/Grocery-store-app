@@ -1,0 +1,19 @@
+
+#titleScreen{
+	 -fx-background-image:url("titleScreen.png"); 
+	 -fx-padding:350 5 5 5;
+}
+
+#wstecz{
+	-fx-background-image:url("backArrow.png");
+	-fx-background-repeat:no-repeat;
+ 	-fx-background-color:none;
+}
+
+Button{
+	-fx-cursor:hand;
+}
+
+#productsScreen{
+	 -fx-background-image:url("background.png"); 
+} 
